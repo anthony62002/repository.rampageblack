@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.rampageblack" name="[COLOR red]Rampage Black[/COLOR]" version="1.0" provider-name="Uncle Mac">
+    <extension point="xbmc.addon.repository" name="[COLOR red]Rampage Repository[/COLOR]">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/</datadir>
+    </dir>
+        <info compressed="false">https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/anthony62002/repository.rampageblack/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Home Of 3rd Party Addons</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
